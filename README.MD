@@ -6,4 +6,4 @@ Olá! Bem-vindo ao meu Livro de Receitas :wave:
 
 - Strogonof de Frango
 - Pavê
-- Bolo de Cenoura
+- Bolo de Chocolate
